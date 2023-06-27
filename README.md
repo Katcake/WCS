@@ -1,2 +1,0 @@
-# WCS
-rem-cyber-poec
