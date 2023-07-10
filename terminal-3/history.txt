@@ -1,0 +1,3 @@
+grep 2019 wilders.txt | grep France | grep PHP | wc -l > php_france_2019.csv
+grep JavaScript wilders.txt | grep Toulouse > javascript_biarritz_toulouse.csv
+grep JavaScript wilders.txt | grep Biarritz >> javascript_biarritz_toulouse.csv
